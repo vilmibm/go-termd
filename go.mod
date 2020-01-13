@@ -1,4 +1,4 @@
-module github.com/vilmibm/go-termd
+module github.com/vilmibm/go-termdf
 
 go 1.13
 
